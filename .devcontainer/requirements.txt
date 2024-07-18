@@ -1,0 +1,4 @@
+Django==5.0.7
+pytest==8.2.2
+pytest-django==4.8.0
+# add Postgres
